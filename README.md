@@ -286,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Hook Form](https://react-hook-form.com/) - Form library
 - [Zod](https://zod.dev/) - Schema validation
 - [Recharts](https://recharts.org/) - Chart library
+- Special thanks to @siddharthamaity as his [nextjs-15-starter-shadcn](https://github.com/siddharthamaity/nextjs-15-starter-shadcn) project was used as a base for this project
 
 ## 📞 Support
 
